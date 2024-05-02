@@ -1,4 +1,4 @@
-# Store-Data-Analysis-dashboard
+# Madhav-Store-Data-Analysis-dashboard
 
 Conducted a data analysis for Store to gain insights into sales performance, customer behavior, and product trends. 
 
